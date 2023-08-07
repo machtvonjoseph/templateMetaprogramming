@@ -1,0 +1,3 @@
+This repo contains some metaprogramming tricks using the boost library. It is part of my failed attempt to convert types using template expansion for the numatype project. 
+It can be further documented ...
+
